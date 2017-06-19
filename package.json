@@ -1,0 +1,23 @@
+{
+  "name": "javascript-exercises-tips",
+  "version": "0.1.0",
+  "description": "Ejercicios y tip de desarrollo sobre JavaScript",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isortegah/Javascript-exercises-tips.git"
+  },
+  "keywords": [
+    "JS",
+    "JAVASCRIPT"
+  ],
+  "author": "ISORTEGAH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/isortegah/Javascript-exercises-tips/issues"
+  },
+  "homepage": "https://github.com/isortegah/Javascript-exercises-tips#readme"
+}
